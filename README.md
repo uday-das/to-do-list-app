@@ -11,3 +11,7 @@
 ![Screenshot 2023-09-07 233002](https://github.com/uday-das/to-do-list-app/assets/89590597/3052cf58-f0a2-46dd-a38e-b7fb30d8bdf3)
 
 ![Screenshot 2023-09-07 230853](https://github.com/uday-das/to-do-list-app/assets/89590597/d0a820f8-d7e9-4be3-9769-329081b7a4c1)
+
+<footer> 
+<p>© 2023 Udayan Das </p>
+</footer> 
