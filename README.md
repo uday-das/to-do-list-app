@@ -8,4 +8,6 @@
 
 # Screenshots
 
+![Screenshot 2023-09-07 230853](https://github.com/uday-das/to-do-list-app/assets/89590597/43f61328-d312-4f63-9d7c-f158ca3cf413)
 
+![Screenshot 2023-09-07 230853](https://github.com/uday-das/to-do-list-app/assets/89590597/d0a820f8-d7e9-4be3-9769-329081b7a4c1)
